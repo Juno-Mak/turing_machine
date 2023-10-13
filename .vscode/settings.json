@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "verifiers.h": "c",
+        "bits.h": "c",
+        "vector": "c"
+    }
+}
